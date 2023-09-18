@@ -21,3 +21,10 @@ print(s)
 var S = "Javascript syntax text"
 alert(s)
 ```
+
+| Left | Center | Right |
+|:---- |:------:| -----:|
+|c3 is|some wordy text|$1600|
+|c2 is|center|$12|
+|zebra stripes|are neat|$1|
+|test|測試|$3333|
