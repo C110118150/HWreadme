@@ -29,11 +29,11 @@ alert(s)
 |zebra stripes|are neat|$1|
 |test|測試|$3333|
 
-```
-大
-區
-塊
-```
+1.one
+
+2.two
+
+3.three
 
 **字體**
 *大*
