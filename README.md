@@ -28,3 +28,13 @@ alert(s)
 |c2 is|center|$12|
 |zebra stripes|are neat|$1|
 |test|測試|$3333|
+
+```
+大
+區
+塊
+```
+
+**字體**
+*大*
+~三元~
